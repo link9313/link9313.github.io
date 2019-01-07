@@ -3,12 +3,6 @@
 
 @import "minima";
 
-// Dark Theme
-// $background-color: #1d1d1d; /* a dark, off-black for the bg */
-// $text-color: #e6e6e6; /* an off-white for the text */
-// $grey-color-light: #565656; /* for the border-top separators */
-// $grey-color-dark: #adadad; /* such as the site title in the header, visited */
-
 // To center images
 .center-image {
     display: block;
@@ -17,8 +11,19 @@
     border-radius: 10px;
 }
 
+// To condense task list checkboxes
 .task-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
-  }
+}
+
+// Dark theme based on system preferences
+@media (prefers-color-scheme: dark) {
+    html {
+        $background-color: #1d1d1d; /* a dark, off-black for the bg */
+        $text-color: #e6e6e6; /* an off-white for the text */
+        $grey-color-light: #565656; /* for the border-top separators */
+        $grey-color-dark: #adadad; /* such as the site title in the header, visited */
+    }
+}
