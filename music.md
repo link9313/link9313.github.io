@@ -19,7 +19,7 @@ Here is a list of tasks that I need to complete before my first music release.
 * [ ] Read LSDJ documentation
 * [ ] Read LSDJ patch list
 * [ ] Read/Watch LSDJ tutorials
-* [ ] Begin writing music using [Sameboy][sameboy] Emulator (5 song EP)
+* [ ] Begin writing music using [Sameboy][sameboy] Emulator (4 song EP)
 <p></p>
 
 ### Future Tasks
