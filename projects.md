@@ -28,6 +28,6 @@ A virtual reality system for the Oculus Rift DK2 designed to display videos in 3
 
 [glinnO]: https://github.com/link9313/glinno "glinnO GitHub Repo"
 [Report]: /assets/nlauber_report.pdf "glinnO Technical Report"
-[Presentation]: /assets/glinno_cap.pdf" "glinnO Capstone Competition"
+[Presentation]: /assets/glinno_cap.pdf "glinnO Capstone Competition"
 [Watershed]: https://www.newatershed.net "Nebraska Watershed Network Website"
 [Emmerse]: https://github.com/link9313/Emmerse "Emmerse GitHub Repo"
